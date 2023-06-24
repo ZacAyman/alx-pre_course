@@ -1,1 +1,1 @@
-#!/bin/bash
+first day to code 
